@@ -39,12 +39,12 @@ export default function HomeScreen() {
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Os melhores: Talys e Dudu</ThemedText>
+        <ThemedText type="subtitle">Criadores: Talys e Dudu</ThemedText>
         <ThemedText>
           {`Nós te amamos e agradecemos por usar nosso app!`}
-          <ThemedText type="defaultSemiBold">Um app feito com muito amor</ThemedText> 
-          <ThemedText type="defaultSemiBold">aqui Você encontra tudo e todes</ThemedText> 
-          <ThemedText type="defaultSemiBold">Venha para cá</div></ThemedText> 
+          <ThemedText type="defaultSemiBold">Um app feito com muito amor.</ThemedText> 
+          <ThemedText type="defaultSemiBold">Aqui você encontra tudo e todes</ThemedText> 
+          <ThemedText type="defaultSemiBold">Venha para cá</ThemedText> 
           <ThemedText type="defaultSemiBold">Obrigado!!</ThemedText>
         </ThemedText>
       </ThemedView>
