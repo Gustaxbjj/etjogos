@@ -29,6 +29,7 @@ export default function HomeScreen() {
           
           </ThemedText>{' '}
          Os melhores desenvolvedores do mundo estão aqui, e você também pode ser um deles!
+         
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
@@ -43,7 +44,7 @@ export default function HomeScreen() {
           {`Nós te amamos e agradecemos por usar nosso app!`}
           <ThemedText type="defaultSemiBold">Um app feito com muito amor</ThemedText> 
           <ThemedText type="defaultSemiBold">aqui Você encontra tudo e todes</ThemedText> 
-          <ThemedText type="defaultSemiBold">Venha para cá</ThemedText> 
+          <ThemedText type="defaultSemiBold">Venha para cá</div></ThemedText> 
           <ThemedText type="defaultSemiBold">Obrigado!!</ThemedText>
         </ThemedText>
       </ThemedView>
